@@ -1,1 +1,2 @@
-#demo repository for the touring app
+#demo
+repository for the touring app!
